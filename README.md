@@ -77,9 +77,9 @@ Matrix W (8×8) × Matrix V (8×8) = Matrix O (8×8)
 
 ## 🚀 Prerequisites
 
-- Verilog simulator (ModelSim, VCS, or similar)
-- Synopsys Design Compiler (for synthesis)
-- Chipware library components
+- **Verilog Simulator**: NC-Verilog 15.20
+- **Waveform Viewer**: nWave (Verdi_P-2019.06)
+- **Synthesis Tools**: Genus 20.10
 
 ## 🧪 Verification and Testing
 

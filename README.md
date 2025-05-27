@@ -61,8 +61,6 @@ Matrix W (8×8) × Matrix V (8×8) = Matrix O (8×8)
 ### Synthesis Configuration
 | Parameter | Description |
 |-----------|-------------|
-| **Technology** | 16nm FinFET process |
-| **Library** | 0.72V supply, 125°C, CCS timing |
 | **Clock Period** | 0.55 ns | 1.82 GHz target frequency |
 | **Power Weight** | 0.1 | Leakage Power vs Dynamic power optimization trade-off |
 | **Clock Gating** | Enabled | Automatic insertion for power reduction |
